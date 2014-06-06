@@ -4,4 +4,5 @@ end
 
 if __FILE__ == $0
   hoge
+  hoge
 end
